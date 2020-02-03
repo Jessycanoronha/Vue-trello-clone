@@ -1,8 +1,8 @@
 # Vue-trello-clone
 A simple vue trello clone in Vue, Vuex and Bulma
 
-![screenshot1](Vue-trello.png)
-![screenshot](Vue-trello1.png)
+![screenshot](Vue-trello.png)
+![screenshot](Vue-trello2.png)
 
 ### Funcionalities
 
